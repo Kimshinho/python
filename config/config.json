@@ -1,0 +1,6 @@
+{
+    "access_key": "YOUR_UPBIT_ACCESS_KEY",
+    "secret_key": "YOUR_UPBIT_SECRET_KEY",
+    "ticker": "KRW-BTC",
+    "budget": 5000
+}
