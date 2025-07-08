@@ -1,2 +1,2 @@
 pyupbit
-pandas
+python-dotenv
